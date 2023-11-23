@@ -1,5 +1,5 @@
 
-public class Rizzo_assignment4 {
+public class LinkedListOutput {
 
 	public static void main(String[] args) {
 		DoublyLinkedList list = new DoublyLinkedList();
